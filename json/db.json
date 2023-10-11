@@ -1,0 +1,72 @@
+{
+ "users": [
+  {
+   "id": 1,
+   "first_name": "Norman",
+   "last_name": "Jaimes",
+   "email": "nor@jai.com",
+   "password": "1234"
+  },
+  {
+   "id": 2,
+   "first_name": "John",
+   "last_name": "Laskey",
+   "email": "john@asdf.com",
+   "password": "asdfn2fonf"
+  },
+  {
+   "id": 3,
+   "first_name": "John",
+   "last_name": "Laskey",
+   "email": "john@asdf.com",
+   "password": "asdfn2fonf"
+  },
+  {
+   "id": 4,
+   "first_name": "John",
+   "last_name": "Laskey",
+   "email": "john@asdf.com",
+   "password": "asdfn2fonf"
+  },
+  {
+   "id": 5,
+   "first_name": "John",
+   "last_name": "Laskey",
+   "email": "john@asdf.com",
+   "password": "asdfn2fonf"
+  },
+  {
+   "id": 6,
+   "first_name": "John",
+   "last_name": "Laskey",
+   "email": "john@asdf.com",
+   "password": "asdfn2fonf"
+  }
+ ],
+ "products": [
+  {
+   "id": 1,
+   "name": "Chrimp - 150",
+   "price": "342",
+   "category": "Industrial"
+  },
+  {
+   "id": 2,
+   "name": "Chinken",
+   "price": "442",
+   "category": "Games"
+  },
+  {
+   "id": 3,
+   "name": "Chrimp - 150",
+   "price": "342",
+   "category": "Industrial"
+  },
+  {
+   "id": 4,
+   "name": "Chrimp - 150",
+   "price": "342",
+   "category": "Industrial"
+  }
+ ]
+}
